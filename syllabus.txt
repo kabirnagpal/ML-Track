@@ -1,0 +1,66 @@
+Week 1: Setting up environment	
+(Anaconda, spyder, jupyter)
+Getting Familiar with:
+Numpy
+Pandas
+Matplotlib
+
+Week 2: Basic Data pre-processing:
+Label Encoding
+One Hot encoding
+Normalization 
+Dealing with Missing values
+
+Introduction to Machine learning
+Types of Learning (Supervised, Unsupervised and Reinforcement)
+Application of Machine Learning
+What is gradient descent algorithm(2D) ? How it works.
+
+Week 3: Regression Algorithms:
+Linear Regression
+Multiple Linear Regression
+Polynomial Regression
+
+Weekly Contest
+
+Week 4:Classification Algorithms:
+Logistic Regression
+Naive Bayes 
+Introduction to Decision Trees for Classification
+
+Weekly Contest
+
+Week 5: Bias vs Variance Trade off
+
+OverFitting
+UnderFitting
+Regularization
+Support Vector Machines
+
+Weekly Contest
+
+Week 6:Clustering Algorithms:
+K-means Clustering
+Hierarchical Clustering
+
+Weekly Contest
+
+Week 7: Dimensionality Reduction:
+PCA
+LDA
+Kernel PCA
+
+Model Selection:
+K-fold Cross Validation
+Parameter Tuning 
+Grid Search
+
+Weekly Contest
+
+Week 8: An introduction to Boosting Algorithms(Optional):
+Gradient Boosting
+XGBoost
+
+Applications:
+Anomaly detection	
+Build Your Own Recommender Systems
