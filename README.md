@@ -12,13 +12,12 @@
 [*Link to Week 2's Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%202.ipynb)
 * One Hot encoding
 * Label Encoding
-* Normalization 
+* Normalization
 * Dealing with Missing values
-
-* Introduction to Machine learning	
+* Introduction to Machine learning
 * Types of Learning (Supervised, Unsupervised and Reinforcement)
 * Application of Machine Learning
-* What is gradient descent algorithm(2D) ? How it works.
+
 
 ## Week 3: Regression Algorithms:
 [*Link to Week 3's Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%203.ipynb)
