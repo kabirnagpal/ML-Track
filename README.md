@@ -1,4 +1,4 @@
-  SoA-ML-14
+  ML Track for Beginners
  ==========
 ## Week 1: Intro to Numpy and Pandas	
 ### (Anaconda, spyder, jupyter)
