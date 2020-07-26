@@ -1,4 +1,4 @@
-  ML Track for Beginners
+  SoA-ML-14
  ==========
 ## Week 1: Intro to Numpy and Pandas	
 ### (Anaconda, spyder, jupyter)
@@ -29,8 +29,11 @@
 ## Week 4:Classification Algorithms:
 [*Link to Week 4's Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%204.ipynb)
 * Logistic Regression
-* Naive Bayes 
-* Introduction to Decision Trees for Classification
+* K-Nearest Neighbours
+* Support Vector Classifier
+* Decision Tree
+* Random Forest
+* Voting Classifier
 
 
 ## Week 5: Bias vs Variance Trade off
